@@ -7,3 +7,4 @@
 | Single Node Elastic | [LINK](https://gist.github.com/ajinfajrian/a7f393b7dac0533df021221ea2439120) |
 | Adguard Home | [LINK](https://gist.github.com/ajinfajrian/65235110fad1a78c39ff4dcb31f47a2f) |
 | Hit Kubernetes Metrics Component | [LINK](https://gist.github.com/ajinfajrian/5fd8234348e42a19734d35203860347e) |
+| Remote Mikrotik with Wireguard | [LINK](https://gist.github.com/ajinfajrian/5d8c399a5a5b1a4582b6e24c51b6b8ef) |
