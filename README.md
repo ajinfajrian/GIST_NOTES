@@ -10,3 +10,4 @@
 | Remote Mikrotik with Wireguard | [LINK](https://gist.github.com/ajinfajrian/5d8c399a5a5b1a4582b6e24c51b6b8ef) |
 | Add Multi Port Service on Firewalld | [LINK](https://gist.github.com/ajinfajrian/05b5f152a0a0fc1802c44567ffab8335) |
 | Hardening SSH with Whitelisting IP Technique | [LINK](https://gist.github.com/ajinfajrian/2f37ff774e3ae20978f813d38ce605be) |
+| Disable IPv6 with nmtui | [LINK](https://gist.github.com/ajinfajrian/c6080780654e9924717e4dcc86bab690) |
