@@ -12,3 +12,4 @@
 | Hardening SSH with Whitelisting IP Technique | [LINK](https://gist.github.com/ajinfajrian/2f37ff774e3ae20978f813d38ce605be) |
 | Disable IPv6 with nmtui | [LINK](https://gist.github.com/ajinfajrian/c6080780654e9924717e4dcc86bab690) |
 | Change default path location of local-path-provisioner on k3s with selinux enforcing mode | [LINK](https://gist.github.com/ajinfajrian/52f0d8824916a0595fb6a54fc852bfc2) |
+| Setup MTProto Proxy Server for Telegram | [LINK](https://gist.github.com/ajinfajrian/79f1c804d24bf0c4b1a985d449020f26) |
