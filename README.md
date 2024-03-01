@@ -8,6 +8,7 @@
 | K8s - Hit Kubernetes Metrics Component | [LINK](https://gist.github.com/ajinfajrian/5fd8234348e42a19734d35203860347e) |
 | K8s - Single node postgresql with Statefulset Kubernetes | [LINK](https://gist.github.com/ajinfajrian/cd5145cb2a52527181fb5603cbb06c73) |
 | K8s -  Ansible semaphore on top kubernetes| [LINK](https://gist.github.com/ajinfajrian/ec68afa4c40cfc3770d2dbffdd83de9c) |
+| K3s - Setup Single Node K3s with Selinux Enforcing Mode | [LINK](https://gist.github.com/ajinfajrian/4d6cec5b410ad76d6a55c1b5aa65d13c) |
 | K3s - Change default path location of local-path-provisioner on k3s with selinux enforcing mode | [LINK](https://gist.github.com/ajinfajrian/52f0d8824916a0595fb6a54fc852bfc2) |
 | Router Network - Remote Mikrotik with Wireguard | [LINK](https://gist.github.com/ajinfajrian/5d8c399a5a5b1a4582b6e24c51b6b8ef) |
 | Linux Firewall - Add Multi Port Service on Firewalld | [LINK](https://gist.github.com/ajinfajrian/05b5f152a0a0fc1802c44567ffab8335) |
