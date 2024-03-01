@@ -7,6 +7,7 @@
 | DNS - Adguard Home | [LINK](https://gist.github.com/ajinfajrian/65235110fad1a78c39ff4dcb31f47a2f) |
 | K8s - Hit Kubernetes Metrics Component | [LINK](https://gist.github.com/ajinfajrian/5fd8234348e42a19734d35203860347e) |
 | K8s - Single node postgresql with Statefulset Kubernetes | [LINK](https://gist.github.com/ajinfajrian/cd5145cb2a52527181fb5603cbb06c73) |
+| K8s - Metallb for Loadbalancer Service on Baremetal | [LINK](https://gist.github.com/ajinfajrian/d2b516f6fb8ae66378ed10c7afd30bdc) |
 | K8s -  Ansible semaphore on top kubernetes| [LINK](https://gist.github.com/ajinfajrian/ec68afa4c40cfc3770d2dbffdd83de9c) |
 | K3s - Setup Single Node K3s with Selinux Enforcing Mode | [LINK](https://gist.github.com/ajinfajrian/4d6cec5b410ad76d6a55c1b5aa65d13c) |
 | K3s - Change default path location of local-path-provisioner on k3s with selinux enforcing mode | [LINK](https://gist.github.com/ajinfajrian/52f0d8824916a0595fb6a54fc852bfc2) |
