@@ -9,6 +9,7 @@
 | K8s - Single node postgresql with Statefulset Kubernetes | [LINK](https://gist.github.com/ajinfajrian/cd5145cb2a52527181fb5603cbb06c73) |
 | K8s - Metallb for Loadbalancer Service on Baremetal | [LINK](https://gist.github.com/ajinfajrian/d2b516f6fb8ae66378ed10c7afd30bdc) |
 | K8s - Setup Nginx Ingress Controller Upstream | [LINK](https://gist.github.com/ajinfajrian/eaf60e197b0ed9386a45ba8b5dfd03d6) |
+| K8s - Setup Message Broker EMQX Operator on top Kubernetes | [LINK](https://gist.github.com/ajinfajrian/09ee55ac4bf239bf11c3f8e187522c8b) |
 | K8s -  Ansible semaphore on top kubernetes| [LINK](https://gist.github.com/ajinfajrian/ec68afa4c40cfc3770d2dbffdd83de9c) |
 | K3s - Setup Single Node K3s with Selinux Enforcing Mode | [LINK](https://gist.github.com/ajinfajrian/4d6cec5b410ad76d6a55c1b5aa65d13c) |
 | K3s - Change default path location of local-path-provisioner on k3s with selinux enforcing mode | [LINK](https://gist.github.com/ajinfajrian/52f0d8824916a0595fb6a54fc852bfc2) |
