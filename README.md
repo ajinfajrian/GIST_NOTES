@@ -2,6 +2,7 @@
 
 | Category | Title | Link |
 |----------|-------|------|
+| Selfhosted |  Setup Frigate Selfhosted NVR with Docker Compose | [LINK](https://gist.github.com/ajinfajrian/0678558a70314cd85cf18264ad13d4ac) |
 | Registry | Docker Registry + Registry UI without SSL | [LINK](https://gist.github.com/ajinfajrian/1c8dc72d5955ab265ac8ab32225d68b5) |
 | Monitoring | Single Node Elastic | [LINK](https://gist.github.com/ajinfajrian/a7f393b7dac0533df021221ea2439120) |
 | DNS | Adguard Home | [LINK](https://gist.github.com/ajinfajrian/65235110fad1a78c39ff4dcb31f47a2f) |
