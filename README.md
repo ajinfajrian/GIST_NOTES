@@ -20,5 +20,6 @@
 | Linux Security | Hardening SSH with Whitelisting IP Technique | [LINK](https://gist.github.com/ajinfajrian/2f37ff774e3ae20978f813d38ce605be) |
 | Linux Storage | Create New Parition in Linux | [LINK](https://gist.github.com/ajinfajrian/73caf6e2320cca24892c9c0cc4979827) |
 | Linux Network | Disable IPv6 with nmtui | [LINK](https://gist.github.com/ajinfajrian/c6080780654e9924717e4dcc86bab690) |
+| Linux Network | Add Static Routing on Ubuntu via netplan | [LINK](https://gist.github.com/ajinfajrian/537fee1b1951c5d37c8a938465cc3db6) |
 | VPN/Proxy | Setup MTProto Proxy Server for Telegram | [LINK](https://gist.github.com/ajinfajrian/79f1c804d24bf0c4b1a985d449020f26) |
 | VPN/Proxy | Setup Squid Proxy Server on Ubuntu | [LINK](https://gist.github.com/ajinfajrian/33e307a3e53f8329a66d47542a171bf0) |
