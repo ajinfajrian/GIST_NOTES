@@ -5,6 +5,7 @@
 | Selfhosted |  Setup Frigate Selfhosted NVR with Docker Compose | [LINK](https://gist.github.com/ajinfajrian/6f10172c79c67c32fd8c241c653b88f8) |
 | Registry | Docker Registry + Registry UI without SSL | [LINK](https://gist.github.com/ajinfajrian/1c8dc72d5955ab265ac8ab32225d68b5) |
 | Monitoring | Single Node Elastic | [LINK](https://gist.github.com/ajinfajrian/a7f393b7dac0533df021221ea2439120) |
+| Docker | Installing Docker from Binaries | [LINK](https://gist.github.com/ajinfajrian/8c33b5ffe138a1671e99ff873f0bb885) |
 | DNS | Adguard Home | [LINK](https://gist.github.com/ajinfajrian/65235110fad1a78c39ff4dcb31f47a2f) |
 | K8s | Hit Kubernetes Metrics Component | [LINK](https://gist.github.com/ajinfajrian/5fd8234348e42a19734d35203860347e) |
 | K8s | Single node postgresql with Statefulset Kubernetes | [LINK](https://gist.github.com/ajinfajrian/cd5145cb2a52527181fb5603cbb06c73) |
