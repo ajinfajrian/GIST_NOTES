@@ -7,6 +7,7 @@
 | Monitoring | Single Node Elastic | [LINK](https://gist.github.com/ajinfajrian/a7f393b7dac0533df021221ea2439120) |
 | Docker | Installing Docker from Binaries | [LINK](https://gist.github.com/ajinfajrian/8c33b5ffe138a1671e99ff873f0bb885) |
 | DNS | Adguard Home | [LINK](https://gist.github.com/ajinfajrian/65235110fad1a78c39ff4dcb31f47a2f) |
+| K8s | active-active control plane connection on kubernetes cluster with kube-vip | [LINK](https://gist.github.com/ajinfajrian/5b0dc0ed4117167add6dd51b884840f9) |
 | K8s | Hit Kubernetes Metrics Component | [LINK](https://gist.github.com/ajinfajrian/5fd8234348e42a19734d35203860347e) |
 | K8s | Single node postgresql with Statefulset Kubernetes | [LINK](https://gist.github.com/ajinfajrian/cd5145cb2a52527181fb5603cbb06c73) |
 | K8s | Metallb for Loadbalancer Service on Baremetal | [LINK](https://gist.github.com/ajinfajrian/d2b516f6fb8ae66378ed10c7afd30bdc) |
