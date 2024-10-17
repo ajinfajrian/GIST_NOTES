@@ -22,6 +22,7 @@
 | Linux Security | Add Multi Port Service on Firewalld | [LINK](https://gist.github.com/ajinfajrian/05b5f152a0a0fc1802c44567ffab8335) |
 | Linux Security | Hardening SSH with Whitelisting IP Technique | [LINK](https://gist.github.com/ajinfajrian/2f37ff774e3ae20978f813d38ce605be) |
 | Linux Storage | Create New Parition in Linux | [LINK](https://gist.github.com/ajinfajrian/73caf6e2320cca24892c9c0cc4979827) |
+| Linux Storage | High Availability Minio | [LINK](https://gist.github.com/ajinfajrian/295b6ed13119cfa872965bf7eb2ce4bc) |
 | Linux Network | Disable IPv6 with nmtui | [LINK](https://gist.github.com/ajinfajrian/c6080780654e9924717e4dcc86bab690) |
 | Linux Network | Add Static Routing on Ubuntu via netplan | [LINK](https://gist.github.com/ajinfajrian/537fee1b1951c5d37c8a938465cc3db6) |
 | Linux Network | Change MTU on Linux | [LINK](https://gist.github.com/ajinfajrian/1cb2759fbd0fa56c33c322f7b844bbf0) |
