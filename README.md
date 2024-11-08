@@ -17,6 +17,7 @@
 | K8s  | Setup Kubernetes Dashboard | [LINK](https://gist.github.com/ajinfajrian/6aeae9cd4fcb3acd2d6c11046a7de2b1) |
 | K8s |  Ansible semaphore on top kubernetes| [LINK](https://gist.github.com/ajinfajrian/ec68afa4c40cfc3770d2dbffdd83de9c) |
 | K3s | Setup Single Node K3s with Selinux Enforcing Mode | [LINK](https://gist.github.com/ajinfajrian/4d6cec5b410ad76d6a55c1b5aa65d13c) |
+| K8s Storage | Create Persistent Volume to External Minio Cluster | [LINK](https://gist.github.com/ajinfajrian/f9534d494b2f97e6cecb892ef6e04bb8) |
 | K3s | Change default path location of local-path-provisioner on k3s with selinux enforcing mode | [LINK](https://gist.github.com/ajinfajrian/52f0d8824916a0595fb6a54fc852bfc2) |
 | Router Network | Remote Mikrotik with Wireguard | [LINK](https://gist.github.com/ajinfajrian/5d8c399a5a5b1a4582b6e24c51b6b8ef) |
 | Linux Kernel | Upgrading Linux Kernel | [LINK](https://gist.github.com/ajinfajrian/ec383f6259b503f8785e552457091999) |
