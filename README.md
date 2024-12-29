@@ -8,6 +8,7 @@
 | Monitoring | Single Node Elastic | [LINK](https://gist.github.com/ajinfajrian/a7f393b7dac0533df021221ea2439120) |
 | Docker | Installing Docker from Binaries | [LINK](https://gist.github.com/ajinfajrian/8c33b5ffe138a1671e99ff873f0bb885) |
 | DNS | Adguard Home | [LINK](https://gist.github.com/ajinfajrian/65235110fad1a78c39ff4dcb31f47a2f) |
+| DNS | Setup DNS Over HTTPS (DOH) on Linux Using Cloudflared | [LINK](https://gist.github.com/ajinfajrian/0d7aa69c6703b5bd341d211b920918b0) |
 | K8s | active-active control plane connection on kubernetes cluster with kube-vip | [LINK](https://gist.github.com/ajinfajrian/5b0dc0ed4117167add6dd51b884840f9) |
 | K8s | Hit Kubernetes Metrics Component | [LINK](https://gist.github.com/ajinfajrian/5fd8234348e42a19734d35203860347e) |
 | K8s | Single node postgresql with Statefulset Kubernetes | [LINK](https://gist.github.com/ajinfajrian/cd5145cb2a52527181fb5603cbb06c73) |
