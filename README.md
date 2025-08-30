@@ -33,3 +33,4 @@
 | Linux Network | Change MTU on Linux | [LINK](https://gist.github.com/ajinfajrian/1cb2759fbd0fa56c33c322f7b844bbf0) |
 | VPN/Proxy | Setup MTProto Proxy Server for Telegram | [LINK](https://gist.github.com/ajinfajrian/79f1c804d24bf0c4b1a985d449020f26) |
 | VPN/Proxy | Setup Squid Proxy Server on Ubuntu | [LINK](https://gist.github.com/ajinfajrian/33e307a3e53f8329a66d47542a171bf0) |
+| Gitlab | Integrate runner with gitlab | [LINK](https://gist.github.com/ajinfajrian/2e7408a3ba399f43cd84db65b712cb56) |
