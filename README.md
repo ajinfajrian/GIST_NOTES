@@ -11,6 +11,7 @@
 | DNS | Adguard Home | [LINK](https://gist.github.com/ajinfajrian/65235110fad1a78c39ff4dcb31f47a2f) |
 | DNS | Setup DNS Over HTTPS (DOH) on Linux Using Cloudflared | [LINK](https://gist.github.com/ajinfajrian/0d7aa69c6703b5bd341d211b920918b0) |
 | K8s | active-active control plane connection on kubernetes cluster with kube-vip | [LINK](https://gist.github.com/ajinfajrian/5b0dc0ed4117167add6dd51b884840f9) |
+| Gitlab | Integrate runner with gitlab | [LINK](https://gist.github.com/ajinfajrian/2e7408a3ba399f43cd84db65b712cb56) |
 | K8s | Hit Kubernetes Metrics Component | [LINK](https://gist.github.com/ajinfajrian/5fd8234348e42a19734d35203860347e) |
 | K8s | Single node postgresql with Statefulset Kubernetes | [LINK](https://gist.github.com/ajinfajrian/cd5145cb2a52527181fb5603cbb06c73) |
 | K8s | Metallb for Loadbalancer Service on Baremetal | [LINK](https://gist.github.com/ajinfajrian/d2b516f6fb8ae66378ed10c7afd30bdc) |
@@ -34,4 +35,4 @@
 | Linux Network | Change MTU on Linux | [LINK](https://gist.github.com/ajinfajrian/1cb2759fbd0fa56c33c322f7b844bbf0) |
 | VPN/Proxy | Setup MTProto Proxy Server for Telegram | [LINK](https://gist.github.com/ajinfajrian/79f1c804d24bf0c4b1a985d449020f26) |
 | VPN/Proxy | Setup Squid Proxy Server on Ubuntu | [LINK](https://gist.github.com/ajinfajrian/33e307a3e53f8329a66d47542a171bf0) |
-| Gitlab | Integrate runner with gitlab | [LINK](https://gist.github.com/ajinfajrian/2e7408a3ba399f43cd84db65b712cb56) |
+| Vault | Install vault and integrate with ldap | [LINK](https://gist.github.com/ajinfajrian/1aa407bee218a1ea369beae85f357c73) |
