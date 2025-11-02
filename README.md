@@ -10,8 +10,8 @@
 | Docker | Install Docker with Rootless Permission | [LINK](https://gist.github.com/ajinfajrian/ce0c1b39eea876d6d6e9b3e01a0735e2) |
 | DNS | Adguard Home | [LINK](https://gist.github.com/ajinfajrian/65235110fad1a78c39ff4dcb31f47a2f) |
 | DNS | Setup DNS Over HTTPS (DOH) on Linux Using Cloudflared | [LINK](https://gist.github.com/ajinfajrian/0d7aa69c6703b5bd341d211b920918b0) |
-| K8s | active-active control plane connection on kubernetes cluster with kube-vip | [LINK](https://gist.github.com/ajinfajrian/5b0dc0ed4117167add6dd51b884840f9) |
 | Gitlab | Integrate runner with gitlab | [LINK](https://gist.github.com/ajinfajrian/2e7408a3ba399f43cd84db65b712cb56) |
+| K8s | active-active control plane connection on kubernetes cluster with kube-vip | [LINK](https://gist.github.com/ajinfajrian/5b0dc0ed4117167add6dd51b884840f9) |
 | K8s | Hit Kubernetes Metrics Component | [LINK](https://gist.github.com/ajinfajrian/5fd8234348e42a19734d35203860347e) |
 | K8s | Single node postgresql with Statefulset Kubernetes | [LINK](https://gist.github.com/ajinfajrian/cd5145cb2a52527181fb5603cbb06c73) |
 | K8s | Metallb for Loadbalancer Service on Baremetal | [LINK](https://gist.github.com/ajinfajrian/d2b516f6fb8ae66378ed10c7afd30bdc) |
@@ -22,6 +22,7 @@
 | K3s | Setup Single Node K3s with Selinux Enforcing Mode | [LINK](https://gist.github.com/ajinfajrian/4d6cec5b410ad76d6a55c1b5aa65d13c) |
 | K8s Storage | Create Persistent Volume to External Minio Cluster | [LINK](https://gist.github.com/ajinfajrian/f9534d494b2f97e6cecb892ef6e04bb8) |
 | K3s | Change default path location of local-path-provisioner on k3s with selinux enforcing mode | [LINK](https://gist.github.com/ajinfajrian/52f0d8824916a0595fb6a54fc852bfc2) |
+| RKE2 | Integrate rancher ui with openldap | [LINK](https://gist.github.com/ajinfajrian/cf86ff822b2b5b7e24c1b128713aedb8) |
 | Router Network | Remote Mikrotik with Wireguard | [LINK](https://gist.github.com/ajinfajrian/5d8c399a5a5b1a4582b6e24c51b6b8ef) |
 | LDAP | Installing OpenLDAP on Ubuntu | [LINK](https://gist.github.com/ajinfajrian/d7b2f807faa5c21139925442062d4d02) |
 | Linux Performance | Benchmarking HTTP Traffic with hey | [LINK](https://gist.github.com/ajinfajrian/90028168058b2e5305d45ca28c825823) |
