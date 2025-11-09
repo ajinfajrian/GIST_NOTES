@@ -36,4 +36,5 @@
 | Linux Network | Change MTU on Linux | [LINK](https://gist.github.com/ajinfajrian/1cb2759fbd0fa56c33c322f7b844bbf0) |
 | VPN/Proxy | Setup MTProto Proxy Server for Telegram | [LINK](https://gist.github.com/ajinfajrian/79f1c804d24bf0c4b1a985d449020f26) |
 | VPN/Proxy | Setup Squid Proxy Server on Ubuntu | [LINK](https://gist.github.com/ajinfajrian/33e307a3e53f8329a66d47542a171bf0) |
+| Vaultwarden | Backup Organization Data on Selfhosted Vaultwarden | [LINK](https://gist.github.com/ajinfajrian/e09658adf191378a8662cbbc51b85443) |
 | Vault | Install vault and integrate with ldap | [LINK](https://gist.github.com/ajinfajrian/1aa407bee218a1ea369beae85f357c73) |
