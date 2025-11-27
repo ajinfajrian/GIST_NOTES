@@ -35,6 +35,7 @@
 | Linux Network | Disable IPv6 with nmtui | [LINK](https://gist.github.com/ajinfajrian/c6080780654e9924717e4dcc86bab690) |
 | Linux Network | Add Static Routing on Ubuntu via netplan | [LINK](https://gist.github.com/ajinfajrian/537fee1b1951c5d37c8a938465cc3db6) |
 | Linux Network | Change MTU on Linux | [LINK](https://gist.github.com/ajinfajrian/1cb2759fbd0fa56c33c322f7b844bbf0) |
+| Security | Installing sqlmap on windows 11 | [LINK](https://gist.github.com/ajinfajrian/e967f18e262851c234de840cc0bb6ab5) |
 | VPN/Proxy | Setup MTProto Proxy Server for Telegram | [LINK](https://gist.github.com/ajinfajrian/79f1c804d24bf0c4b1a985d449020f26) |
 | VPN/Proxy | Setup Squid Proxy Server on Ubuntu | [LINK](https://gist.github.com/ajinfajrian/33e307a3e53f8329a66d47542a171bf0) |
 | Vaultwarden | Backup Organization Data on Selfhosted Vaultwarden | [LINK](https://gist.github.com/ajinfajrian/e09658adf191378a8662cbbc51b85443) |
