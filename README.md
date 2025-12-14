@@ -21,6 +21,7 @@
 | K8s  | Setup Kubernetes Dashboard | [LINK](https://gist.github.com/ajinfajrian/6aeae9cd4fcb3acd2d6c11046a7de2b1) |
 | K8s |  Ansible semaphore on top kubernetes| [LINK](https://gist.github.com/ajinfajrian/ec68afa4c40cfc3770d2dbffdd83de9c) |
 | K3s | Setup Single Node K3s with Selinux Enforcing Mode | [LINK](https://gist.github.com/ajinfajrian/4d6cec5b410ad76d6a55c1b5aa65d13c) |
+| K3s | Installing K3s with Docker Container Runtime & Cilium | [LINK](https://gist.github.com/ajinfajrian/23acfaf2bd28d6f095dc87bce907910c) |
 | K8s Storage | Create Persistent Volume to External Minio Cluster | [LINK](https://gist.github.com/ajinfajrian/f9534d494b2f97e6cecb892ef6e04bb8) |
 | K3s | Change default path location of local-path-provisioner on k3s with selinux enforcing mode | [LINK](https://gist.github.com/ajinfajrian/52f0d8824916a0595fb6a54fc852bfc2) |
 | RKE2 | Integrate rancher ui with openldap | [LINK](https://gist.github.com/ajinfajrian/cf86ff822b2b5b7e24c1b128713aedb8) |
