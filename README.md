@@ -10,7 +10,7 @@
 | Docker | Install Docker with Rootless Permission | [LINK](https://gist.github.com/ajinfajrian/ce0c1b39eea876d6d6e9b3e01a0735e2) |
 | DNS | Adguard Home | [LINK](https://gist.github.com/ajinfajrian/65235110fad1a78c39ff4dcb31f47a2f) |
 | DNS | Setup DNS Over HTTPS (DOH) on Linux Using Cloudflared | [LINK](https://gist.github.com/ajinfajrian/0d7aa69c6703b5bd341d211b920918b0) |
-| Gitlab |  Installing Gitlab with External Haproxy | [LINK](https://gist.github.com/ajinfajrian/b6f89ca05936cb2d77f25bbcdf395a52) |
+| Gitlab | Installing Gitlab with External Haproxy | [LINK](https://gist.github.com/ajinfajrian/b6f89ca05936cb2d77f25bbcdf395a52) |
 | Gitlab | Integrate runner with gitlab | [LINK](https://gist.github.com/ajinfajrian/2e7408a3ba399f43cd84db65b712cb56) |
 | K8s | active-active control plane connection on kubernetes cluster with kube-vip | [LINK](https://gist.github.com/ajinfajrian/5b0dc0ed4117167add6dd51b884840f9) |
 | K8s | Hit Kubernetes Metrics Component | [LINK](https://gist.github.com/ajinfajrian/5fd8234348e42a19734d35203860347e) |
@@ -18,10 +18,10 @@
 | K8s | Metallb for Loadbalancer Service on Baremetal | [LINK](https://gist.github.com/ajinfajrian/d2b516f6fb8ae66378ed10c7afd30bdc) |
 | K8s | Setup Nginx Ingress Controller Upstream | [LINK](https://gist.github.com/ajinfajrian/eaf60e197b0ed9386a45ba8b5dfd03d6) |
 | K8s | Setup Message Broker EMQX Operator on top Kubernetes | [LINK](https://gist.github.com/ajinfajrian/09ee55ac4bf239bf11c3f8e187522c8b) |
-| K8s  | Setup Kubernetes Dashboard | [LINK](https://gist.github.com/ajinfajrian/6aeae9cd4fcb3acd2d6c11046a7de2b1) |
-| K8s |  Ansible semaphore on top kubernetes| [LINK](https://gist.github.com/ajinfajrian/ec68afa4c40cfc3770d2dbffdd83de9c) |
+| K8s | Setup Kubernetes Dashboard | [LINK](https://gist.github.com/ajinfajrian/6aeae9cd4fcb3acd2d6c11046a7de2b1) |
+| K8s | Ansible semaphore on top kubernetes| [LINK](https://gist.github.com/ajinfajrian/ec68afa4c40cfc3770d2dbffdd83de9c) |
 | K3s | Setup Single Node K3s with Selinux Enforcing Mode | [LINK](https://gist.github.com/ajinfajrian/4d6cec5b410ad76d6a55c1b5aa65d13c) |
-| K3s | Installing K3s with Docker Container Runtime & Cilium | [LINK](https://gist.github.com/ajinfajrian/23acfaf2bd28d6f095dc87bce907910c) |
+| K3s | Installing K3s with Docker, Cilium eBPF & Istio | [LINK](https://gist.github.com/ajinfajrian/23acfaf2bd28d6f095dc87bce907910c) |
 | K3s | Installing Rancher Dashboard with Virtual Service Istio | [LINK](https://gist.github.com/ajinfajrian/74786500b0da0c5a5039acc4b3f82745) |
 | K8s Storage | Create Persistent Volume to External Minio Cluster | [LINK](https://gist.github.com/ajinfajrian/f9534d494b2f97e6cecb892ef6e04bb8) |
 | K3s | Change default path location of local-path-provisioner on k3s with selinux enforcing mode | [LINK](https://gist.github.com/ajinfajrian/52f0d8824916a0595fb6a54fc852bfc2) |
