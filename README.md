@@ -5,7 +5,6 @@
 | Selfhosted |  Setup Frigate Selfhosted NVR with Docker Compose | [LINK](https://gist.github.com/ajinfajrian/6f10172c79c67c32fd8c241c653b88f8) |
 | Registry | Docker Registry + Registry UI without SSL | [LINK](https://gist.github.com/ajinfajrian/1c8dc72d5955ab265ac8ab32225d68b5) |
 | Database  | Active - Standby PostgreSQL, Repmgr, keepalived | [LINK](https://gist.github.com/ajinfajrian/944975882d8a4d281e41e74de0b1a15a) |
-| Monitoring | Single Node Elastic | [LINK](https://gist.github.com/ajinfajrian/a7f393b7dac0533df021221ea2439120) |
 | Docker | Installing Docker from Binaries | [LINK](https://gist.github.com/ajinfajrian/8c33b5ffe138a1671e99ff873f0bb885) |
 | Docker | Install Docker with Rootless Permission | [LINK](https://gist.github.com/ajinfajrian/ce0c1b39eea876d6d6e9b3e01a0735e2) |
 | DNS | Adguard Home | [LINK](https://gist.github.com/ajinfajrian/65235110fad1a78c39ff4dcb31f47a2f) |
@@ -25,7 +24,8 @@
 | K3s | Installing Rancher Dashboard with Virtual Service Istio | [LINK](https://gist.github.com/ajinfajrian/74786500b0da0c5a5039acc4b3f82745) |
 | K8s Storage | Create Persistent Volume to External Minio Cluster | [LINK](https://gist.github.com/ajinfajrian/f9534d494b2f97e6cecb892ef6e04bb8) |
 | K3s | Change default path location of local-path-provisioner on k3s with selinux enforcing mode | [LINK](https://gist.github.com/ajinfajrian/52f0d8824916a0595fb6a54fc852bfc2) |
-| Monitor | Setup Alloy & Grafana Cloud Free Tier | [LINK](https://gist.github.com/ajinfajrian/55df7a6e7a7675619714292289aeb49a) |
+| Monitoring | Setup Alloy & Grafana Cloud Free Tier | [LINK](https://gist.github.com/ajinfajrian/55df7a6e7a7675619714292289aeb49a) |
+| Monitoring | Single Node Elastic | [LINK](https://gist.github.com/ajinfajrian/a7f393b7dac0533df021221ea2439120) |
 | RKE2 | Integrate rancher ui with openldap | [LINK](https://gist.github.com/ajinfajrian/cf86ff822b2b5b7e24c1b128713aedb8) |
 | Router Network | Remote Mikrotik with Wireguard | [LINK](https://gist.github.com/ajinfajrian/5d8c399a5a5b1a4582b6e24c51b6b8ef) |
 | LDAP | Installing OpenLDAP on Ubuntu | [LINK](https://gist.github.com/ajinfajrian/d7b2f807faa5c21139925442062d4d02) |
