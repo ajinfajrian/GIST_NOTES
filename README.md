@@ -25,6 +25,7 @@
 | K3s | Installing Rancher Dashboard with Virtual Service Istio | [LINK](https://gist.github.com/ajinfajrian/74786500b0da0c5a5039acc4b3f82745) |
 | K8s Storage | Create Persistent Volume to External Minio Cluster | [LINK](https://gist.github.com/ajinfajrian/f9534d494b2f97e6cecb892ef6e04bb8) |
 | K3s | Change default path location of local-path-provisioner on k3s with selinux enforcing mode | [LINK](https://gist.github.com/ajinfajrian/52f0d8824916a0595fb6a54fc852bfc2) |
+| Monitor | Setup Alloy & Grafana Cloud Free Tier | [LINK](https://gist.github.com/ajinfajrian/55df7a6e7a7675619714292289aeb49a) |
 | RKE2 | Integrate rancher ui with openldap | [LINK](https://gist.github.com/ajinfajrian/cf86ff822b2b5b7e24c1b128713aedb8) |
 | Router Network | Remote Mikrotik with Wireguard | [LINK](https://gist.github.com/ajinfajrian/5d8c399a5a5b1a4582b6e24c51b6b8ef) |
 | LDAP | Installing OpenLDAP on Ubuntu | [LINK](https://gist.github.com/ajinfajrian/d7b2f807faa5c21139925442062d4d02) |
