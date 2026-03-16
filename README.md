@@ -11,6 +11,7 @@
 | DNS | Setup DNS Over HTTPS (DOH) on Linux Using Cloudflared | [LINK](https://gist.github.com/ajinfajrian/0d7aa69c6703b5bd341d211b920918b0) |
 | Gitlab | Installing Gitlab with External Haproxy | [LINK](https://gist.github.com/ajinfajrian/b6f89ca05936cb2d77f25bbcdf395a52) |
 | Gitlab | Integrate runner with gitlab | [LINK](https://gist.github.com/ajinfajrian/2e7408a3ba399f43cd84db65b712cb56) |
+| Jumpserver | Installing Jumpserver with External Postgresql, Redis & Custom Nginx Port | [LINK](https://gist.github.com/ajinfajrian/ab77d010c6e88e07a00f41b791af67cc) |
 | K8s | active-active control plane connection on kubernetes cluster with kube-vip | [LINK](https://gist.github.com/ajinfajrian/5b0dc0ed4117167add6dd51b884840f9) |
 | K8s | Hit Kubernetes Metrics Component | [LINK](https://gist.github.com/ajinfajrian/5fd8234348e42a19734d35203860347e) |
 | K8s | Single node postgresql with Statefulset Kubernetes | [LINK](https://gist.github.com/ajinfajrian/cd5145cb2a52527181fb5603cbb06c73) |
