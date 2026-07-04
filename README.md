@@ -26,6 +26,7 @@
 | K8s Storage | Create Persistent Volume to External Minio Cluster | [LINK](https://gist.github.com/ajinfajrian/f9534d494b2f97e6cecb892ef6e04bb8) |
 | K3s | Change default path location of local-path-provisioner on k3s with selinux enforcing mode | [LINK](https://gist.github.com/ajinfajrian/52f0d8824916a0595fb6a54fc852bfc2) |
 | Monitoring | Setup Alloy & Grafana Cloud Free Tier | [LINK](https://gist.github.com/ajinfajrian/55df7a6e7a7675619714292289aeb49a) |
+| Monitoring | Setup Grafana with Subpath Deployment | [LINK](https://gist.github.com/ajinfajrian/37651992a11bc292200e99062d7bc603) |
 | Monitoring | Single Node Elastic | [LINK](https://gist.github.com/ajinfajrian/a7f393b7dac0533df021221ea2439120) |
 | RKE2 | Integrate rancher ui with openldap | [LINK](https://gist.github.com/ajinfajrian/cf86ff822b2b5b7e24c1b128713aedb8) |
 | Router Network | Remote Mikrotik with Wireguard | [LINK](https://gist.github.com/ajinfajrian/5d8c399a5a5b1a4582b6e24c51b6b8ef) |
