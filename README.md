@@ -7,6 +7,7 @@
 | Database  | Active - Standby PostgreSQL, Repmgr, keepalived | [LINK](https://gist.github.com/ajinfajrian/944975882d8a4d281e41e74de0b1a15a) |
 | Docker | Installing Docker from Binaries | [LINK](https://gist.github.com/ajinfajrian/8c33b5ffe138a1671e99ff873f0bb885) |
 | Docker | Install Docker with Rootless Permission | [LINK](https://gist.github.com/ajinfajrian/ce0c1b39eea876d6d6e9b3e01a0735e2) |
+| IdP | Setup Authelia on Docker | [LINK](https://gist.github.com/ajinfajrian/691ae17757ade0be9f2ae5094da9e8c4) |
 | DNS | Adguard Home | [LINK](https://gist.github.com/ajinfajrian/65235110fad1a78c39ff4dcb31f47a2f) |
 | DNS | Setup DNS Over HTTPS (DOH) on Linux Using Cloudflared | [LINK](https://gist.github.com/ajinfajrian/0d7aa69c6703b5bd341d211b920918b0) |
 | Gitlab | Installing Gitlab with External Haproxy | [LINK](https://gist.github.com/ajinfajrian/b6f89ca05936cb2d77f25bbcdf395a52) |
